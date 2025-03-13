@@ -18,6 +18,34 @@
 
 [使用 Jmol 制作分子轨迹动画以及旋转动画](https://blog.shishiruqi.com/2019/08/19/Jmol-gif/)
 
+[科研中常用的图片保存格式](https://www.guanjihuan.com/archives/45193)
+
+[常见的相近学术词汇对比](https://www.guanjihuan.com/archives/43292)
+
+[使用 AI 润色文章的一些小技巧](https://www.guanjihuan.com/archives/43080)
+
+[超算中作业管理系统 PBS/LSF/Slurm 的常用命令](https://www.guanjihuan.com/archives/42460)
+
+[超算提交任务时 CPU 数量的选取](https://www.guanjihuan.com/archives/42294)
+
+[服务器或工作站的用电成本以及和机时价格的对比](https://www.guanjihuan.com/archives/42235)
+
+[不同取点数量的画图视觉效果](https://www.guanjihuan.com/archives/42125)
+
+[在桌面实时显示 CPU、内存等数据](https://www.guanjihuan.com/archives/41613)
+
+[科学计算任务 CPU 并行和 GPU 并行的选择](https://www.guanjihuan.com/archives/41449)
+
+[CPU 性能测试 Python 代码](https://www.guanjihuan.com/archives/40932)
+
+[使用 Docker 创建 Ubuntu 子系统并开放SSH权限](https://www.guanjihuan.com/archives/40729)
+
+[科学计算中进程并行和线程并行的区别](https://www.guanjihuan.com/archives/39565)
+
+[Latex 中图表位置的控制 [htbp]](https://www.guanjihuan.com/archives/37976)
+
+[Latex 常规环境中的常用语句](https://www.guanjihuan.com/archives/29097)
+
 # VASP
 
 [VASP 编译相关链接集锦](https://zhuanlan.zhihu.com/p/703247045)
@@ -138,6 +166,32 @@
 
 [纯做应用的计算科学家，正在消失的职业？](https://www.bilibili.com/opus/174341720503385605)
 
+[用于概率事件中决策的凯利公式](https://www.guanjihuan.com/archives/43412)
+
+[高陈数的蜂窝双层系统中的拓扑隐藏相变 Topological hidden phase transition in honeycomb bilayers with a high Chern number](https://www.guanjihuan.com/archives/42769)
+
+[紧束缚模型和平均场理论的关系](https://www.guanjihuan.com/archives/42167)
+
+[一个实空间拓扑不变量的公式推导（local Chern marker）](https://www.guanjihuan.com/archives/41820)
+
+[贝里曲率为实数的证明](https://www.guanjihuan.com/archives/41424)
+
+[在薛定谔方程下自由粒子的解](https://www.guanjihuan.com/archives/41279)
+
+# 计算
+
+[不同 CPU 核数对矩阵运算的加速效果](https://www.guanjihuan.com/archives/45324)
+
+[不同大小的矩阵的内存占用和计算时间](https://www.guanjihuan.com/archives/45275)
+
+[凯利公式的 Python 数值验证](https://www.guanjihuan.com/archives/43508)
+
+[使用Python实现CPU使用率的监控记录](https://www.guanjihuan.com/archives/43334)
+
+[实空间拓扑不变量（local Chern marker）的Python代码实现例子](https://www.guanjihuan.com/archives/42000)
+
+[两端输运中电极自能矩阵在数值上的大概形式](https://www.guanjihuan.com/archives/37881)
+
 # pymatgen
 
 [pymatgen API 的使用-高通量计算初探](https://blog.shishiruqi.com/2019/06/12/pymatgen-api/)
@@ -147,3 +201,23 @@
 [pymatgen 自动生成表面吸附模型-高通量计算初探](https://blog.shishiruqi.com/2019/06/08/pymatgen-adsorption/)
 
 [pymatgen 画能带图方法-高通量计算初探](https://blog.shishiruqi.com/2019/05/19/pymatgen-band/)
+
+# 机器学习
+
+[在机器学习模型训练中 Epoch 的大概取值范围](https://www.guanjihuan.com/archives/42459)
+
+[当损失函数长时间不再下降时自动停止训练的设置](https://www.guanjihuan.com/archives/41201)
+
+[由于内存限制导致数据无法一次性从文件加载到 PyTorch 中的简单解决方法](https://www.guanjihuan.com/archives/41198)
+
+[PyTorch 张量数组的合并](https://www.guanjihuan.com/archives/41194)
+
+[基于文本概率统计的大语言模型为什么会产生出理解能力？](https://www.guanjihuan.com/archives/41140)
+
+[多智能体协作是否会产生新的智能？](https://www.guanjihuan.com/archives/41131)
+
+[使用 guan.chat() 函数实现AI对话](https://www.guanjihuan.com/archives/41092)
+
+[使用 torchviz 实现 PyTorch 计算图的可视化](https://www.guanjihuan.com/archives/40353)
+
+[机器学习中动态图和静态图的区别](https://www.guanjihuan.com/archives/40322)
