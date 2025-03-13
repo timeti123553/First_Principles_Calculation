@@ -46,6 +46,14 @@
 
 [Latex 常规环境中的常用语句](https://www.guanjihuan.com/archives/29097)
 
+[文献的查找筛选以及推荐方案](https://www.guanjihuan.com/archives/24284)
+
+[论文中图片的配色（以 Matplotlib 为例）](https://www.guanjihuan.com/archives/21868)
+
+[文献中常见的几个英文缩写](https://www.guanjihuan.com/archives/20464)
+
+[在 Linux 系统下 Fortran 和 MKL 环境的安装和设置](https://www.guanjihuan.com/archives/20121)
+
 # VASP
 
 [VASP 编译相关链接集锦](https://zhuanlan.zhihu.com/p/703247045)
@@ -178,6 +186,14 @@
 
 [在薛定谔方程下自由粒子的解](https://www.guanjihuan.com/archives/41279)
 
+[几种长度（平均自由程、相位相干长度等）](https://www.guanjihuan.com/archives/21126)
+
+[时间反演对称性和空间反演对称性下的贝里曲率](https://www.guanjihuan.com/archives/21047)
+
+[非简并波函数和简并波函数的固定规范](https://www.guanjihuan.com/archives/22604)
+
+[常见温度对应的能量值（meV）](https://www.guanjihuan.com/archives/17895)
+
 # 计算
 
 [不同 CPU 核数对矩阵运算的加速效果](https://www.guanjihuan.com/archives/45324)
@@ -191,6 +207,26 @@
 [实空间拓扑不变量（local Chern marker）的Python代码实现例子](https://www.guanjihuan.com/archives/42000)
 
 [两端输运中电极自能矩阵在数值上的大概形式](https://www.guanjihuan.com/archives/37881)
+
+[以一维链为例子说明能带折叠（附 Python 代码）](https://www.guanjihuan.com/archives/27656)
+
+[陈数 Chern number 的计算（多条能带的高效法，附 Python 代码）](https://www.guanjihuan.com/archives/25107)
+
+[贝里曲率的计算（写成函数形式，附 Python 代码）](https://www.guanjihuan.com/archives/24059)
+
+[陈数 Chern number 的计算（多条能带的 Wilson loop 方法，附 Python 代码）](https://www.guanjihuan.com/archives/23989)
+
+[陈数 Chern number 的计算（Wilson loop 方法，附 Python 代码）](https://www.guanjihuan.com/archives/18319)
+
+[六角格子/石墨烯紧束缚模型的朗道能级（附 Python 代码）](https://www.guanjihuan.com/archives/23834)
+
+[二维离散 ky 能带的叠加和宽度为 Ny 的条带能带的关系（附 Python 代码）](https://www.guanjihuan.com/archives/22691)
+
+[贝里曲率的计算（附 Python 代码）](https://www.guanjihuan.com/archives/20869)
+
+[方格子紧束缚模型中朗道能级的陈数/霍尔电导（附 Python 代码）](https://www.guanjihuan.com/archives/18306)
+
+[BBH 模型的 nested Wilson loop 高阶不变量（附 Python 代码）](https://www.guanjihuan.com/archives/17984)
 
 # pymatgen
 
