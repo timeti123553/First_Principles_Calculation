@@ -1,5 +1,19 @@
 # VASP
 
+[自动进行 K 点和 ENCUT 测试 bash 脚本](https://www.jun997.xyz/2021/10/19/fa8688fdb49b.html)
+
+[VASP 的计算流程](https://www.jun997.xyz/2021/11/10/c445558fb829.html)
+
+[VASP 中 POTCAR 使用指南](https://www.jun997.xyz/2022/04/14/ba8ff0b84c20.html)
+
+[vasp+phonopy 计算声子谱](https://www.jun997.xyz/2022/07/14/276373048e9d.html)
+
+[VASP 官网关于 IBRION 参数的说明](https://www.jun997.xyz/2022/07/20/4b7c346573e6.html)
+
+[VASP 计算材料的弹性矩阵和杨氏模量](https://www.jun997.xyz/2023/03/09/a931fd747c09.html)
+
+[VASP 编译相关链接集锦](https://zhuanlan.zhihu.com/p/703247045)
+
 [VASP 编译相关链接集锦](https://zhuanlan.zhihu.com/p/703247045)
 
 [VASP vaspkit STM 模拟](https://zhuanlan.zhihu.com/p/667558468)
@@ -73,6 +87,8 @@
 [Origin 画能带图](https://blog.shishiruqi.com/2019/07/11/band3/)
 
 [VASP 中添加赝原子，做投影 DOS 和投影能带方法](https://blog.shishiruqi.com/2019/05/13/pseudoatom/)
+
+[画能带（Band）和态密度（DOS）图--Python包](https://zhuanlan.zhihu.com/p/580857656)
 
 ## 电偶极矩
 
