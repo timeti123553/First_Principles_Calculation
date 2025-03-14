@@ -16,6 +16,14 @@
 
 通过代码，对一些理论模型进行理论验证。
 
+[论文写作](论文写作.md)
+
+分享一些科研论文写作的文章。
+
+[服务器](服务器.md)
+
+在第一性原理计算中，我们需要经常用到服务器。该目录中分享了一些有关服务器计算的相关文章。
+
 [TDEP 安装教程](https://tiandijunhao.github.io/2020/06/24/tdep-an-zhuang/)
 
 [LAPACK+BLAS 安装教程](https://tiandijunhao.github.io/2020/06/24/blas-lapack-an-zhuang/)
