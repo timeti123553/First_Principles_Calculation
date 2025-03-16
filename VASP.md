@@ -82,14 +82,6 @@
 
 [提取 VASP 的 OUTCAR 文件中的能带数据](https://zhuanlan.zhihu.com/p/78033492)
 
-[阻挫和自旋液体的关系是什么？](https://www.zhihu.com/question/408171632/answer/1362698680)
-
-[如何理解傅里叶光学？](https://www.zhihu.com/question/487032660/answer/2125421330)
-
-[MOSFET 结构及其工作原理详解](https://zhuanlan.zhihu.com/p/462392639)
-
-[杂化泛函理论及“一步”完成杂化泛函计算](https://zhuanlan.zhihu.com/p/362633162)
-
 [VASP 计算之 DFT+U](https://zhuanlan.zhihu.com/p/412474991)
 
 [带你解读 DFT+U 计算，如何加 U](https://zhuanlan.zhihu.com/p/502440652)
@@ -102,6 +94,68 @@
 
 [VASP 并行运算参数 NCORE,NPAR,KPAR](https://zhuanlan.zhihu.com/p/666602300)
 
+[基于 Shell+VASP 实现自动计算 DFT+U 中的 U 值(附源代码)](https://zhuanlan.zhihu.com/p/422716387)
+
+[VASP 磁各向异性计算](https://zhuanlan.zhihu.com/p/436260128)
+
+[VASP 计算电荷密度分布](https://zhuanlan.zhihu.com/p/405655888)
+
+[怎么用 VASP 来计算声子谱？](https://www.zhihu.com/question/297403708/answer/2701891025)
+
+[VASP+SOC 自旋轨道耦合效应的计算](https://zhuanlan.zhihu.com/p/572584164)
+
+[第一性原理分子动力学分析结构稳定性（VASP-AIMD）](https://zhuanlan.zhihu.com/p/359874915)
+
+[HSE06 计算带隙](https://zhuanlan.zhihu.com/p/446453016)
+
+[VASP 并行参数设置](https://zhuanlan.zhihu.com/p/485153538)
+
+[VASP K点问题](https://zhuanlan.zhihu.com/p/397873103)
+
+[VASP 如何计算居里温度？](https://www.zhihu.com/question/386477636/answer/2827745773)
+
+[VASP 如何计算居里温度？](https://www.zhihu.com/question/386477636/answer/2826407460)
+
+[VASP+phonopy（DFPT）方法计算声子谱](https://zhuanlan.zhihu.com/p/328483850)
+
+[VASP 中的非线性磁性计算总结](https://zhuanlan.zhihu.com/p/586969248)
+
+[VASP 计算光学性质](https://zhuanlan.zhihu.com/p/580548050)
+
+[VASP 的光学性质计算及 vaspkit 的安装与使用](https://zhuanlan.zhihu.com/p/26836978)
+
+[VASP 计算笔记-声子谱计算](https://zhuanlan.zhihu.com/p/128081412)
+
+[VASP学习记录(一)：随便先写点什么](https://zhuanlan.zhihu.com/p/556067157)
+
+[VASP学习记录(二)：VASP的第一次尝试（1）](https://zhuanlan.zhihu.com/p/556071342)
+
+[VASP学习记录(三)：VASP中常用的Linux命令](https://zhuanlan.zhihu.com/p/556163899)
+
+[VASP学习记录(四)：Vim文本编辑器](https://zhuanlan.zhihu.com/p/557009386)
+
+[VASP学习记录(五)：awk命令](https://zhuanlan.zhihu.com/p/558122542)
+
+[VASP学习记录(六)：VASP的输出文件OUTCAR](https://zhuanlan.zhihu.com/p/579705300)
+
+[VASP学习记录(七)：VASP的其它输出文件](https://zhuanlan.zhihu.com/p/580994211)
+
+[PAW（Projected augmented wave）算法介绍](https://zhuanlan.zhihu.com/p/575479762)
+
+[VASP 结构优化计算中查看能量和力收敛情况](https://zhuanlan.zhihu.com/p/376360440)
+
+[VASP 输出文件 OUTCAR OSZICAR](https://zhuanlan.zhihu.com/p/391279503)
+
+[（VASP）Error EDDDAV: Call to ZHEGV failed.的磁性解决方案](https://zhuanlan.zhihu.com/p/351808487)
+
+[VASP 赝势简介](https://zhuanlan.zhihu.com/p/146280554)
+
+[第一性原理|| VASP 计算自旋轨道耦合与相关参数](https://zhuanlan.zhihu.com/p/538131764)
+
+[基于 VASP 的电子和空穴的有效质量计算方法](https://zhuanlan.zhihu.com/p/570826907)
+
+[用 VASP 的输出文件 PARCHG 模拟 STM 图像的 python 代码](https://zhuanlan.zhihu.com/p/538950799)
+
 ## 结构优化
 
 [VASP 结构优化过程中查看能量和力收敛](https://blog.shishiruqi.com/2019/08/19/paili-energyforce/)
@@ -109,6 +163,8 @@
 [VASP 固定基矢优化结构方法](https://blog.shishiruqi.com/2019/05/05/constr/)
 
 [VASP 结构优化过程中查看能量和力收敛](https://zhuanlan.zhihu.com/p/658042734)
+
+[计算大牛教你优化结构](https://zhuanlan.zhihu.com/p/64738565)
 
 ## 能带+态密度
 
