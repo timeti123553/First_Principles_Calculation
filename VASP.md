@@ -94,7 +94,13 @@
 
 [带你解读 DFT+U 计算，如何加 U](https://zhuanlan.zhihu.com/p/502440652)
 
+[vasp 运行效率](https://zhuanlan.zhihu.com/p/397533516)
 
+[VASP 报错及解决方法整理-01](https://zhuanlan.zhihu.com/p/449755288)
+
+[VASP 参数含义](https://zhuanlan.zhihu.com/p/618286143)
+
+[VASP 并行运算参数 NCORE,NPAR,KPAR](https://zhuanlan.zhihu.com/p/666602300)
 
 ## 结构优化
 
@@ -132,7 +138,7 @@
 
 [VASP+vaspkit 计算能带结构+态密度](https://zhuanlan.zhihu.com/p/526969630)
 
-
+[VASP 的能带计算与绘图](https://zhuanlan.zhihu.com/p/26389347)
 
 ## 电偶极矩
 
