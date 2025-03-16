@@ -1,5 +1,7 @@
 # First_Principles_Calculation
 
+**本项目收集第一性原理计算相关文章**
+
 [VASP](VASP.md)
 
 记录了有关使用 VASP 进行第一性原理计算的相关文章。
@@ -31,3 +33,7 @@
 [机器学校](机器学习.md)
 
 介绍有关机器学习的相关文章。
+
+[Materials Studio入门到精通](Materials_Studio.md)
+
+收集了一下有关 Materials Studio 的文章。

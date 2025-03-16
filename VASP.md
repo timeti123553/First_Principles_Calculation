@@ -56,6 +56,46 @@
 
 [校正分子和吸附分子自由能](https://blog.shishiruqi.com/2019/04/21/freenergy/)
 
+[VASP 个人笔记（一）](https://zhuanlan.zhihu.com/p/27711867)
+
+[VASP 个人笔记（二）](https://zhuanlan.zhihu.com/p/27729576)
+
+[VASP 个人笔记（三）](https://zhuanlan.zhihu.com/p/27908849)
+
+[VASP 个人笔记（四）](https://zhuanlan.zhihu.com/p/28029551)
+
+[VASP 个人笔记（五）](https://zhuanlan.zhihu.com/p/30002605)
+
+[VASP 个人笔记（六）](https://zhuanlan.zhihu.com/p/30402826)
+
+[POSCAR 相关参数](https://zhuanlan.zhihu.com/p/45773029)
+
+[VASP 输入文件 KPOINTS](https://zhuanlan.zhihu.com/p/390793069)
+
+[VASP 计算能带结构（HSE 杂化泛函）](https://zhuanlan.zhihu.com/p/412484430)
+
+[材料科学实验人员如何入门第一性原理计算（计算材料学/VASP）（从 0 到上手）](https://zhuanlan.zhihu.com/p/97102012)
+
+[第一性原理|VASP 计算电荷密度差分并绘制电荷密度差分图](https://zhuanlan.zhihu.com/p/396877339)
+
+[一文搞定 VASP+wannier90 构造紧束缚模型](https://zhuanlan.zhihu.com/p/355317202)
+
+[提取 VASP 的 OUTCAR 文件中的能带数据](https://zhuanlan.zhihu.com/p/78033492)
+
+[阻挫和自旋液体的关系是什么？](https://www.zhihu.com/question/408171632/answer/1362698680)
+
+[如何理解傅里叶光学？](https://www.zhihu.com/question/487032660/answer/2125421330)
+
+[MOSFET 结构及其工作原理详解](https://zhuanlan.zhihu.com/p/462392639)
+
+[杂化泛函理论及“一步”完成杂化泛函计算](https://zhuanlan.zhihu.com/p/362633162)
+
+[VASP 计算之 DFT+U](https://zhuanlan.zhihu.com/p/412474991)
+
+[带你解读 DFT+U 计算，如何加 U](https://zhuanlan.zhihu.com/p/502440652)
+
+
+
 ## 结构优化
 
 [VASP 结构优化过程中查看能量和力收敛](https://blog.shishiruqi.com/2019/08/19/paili-energyforce/)
@@ -76,7 +116,7 @@
 
 [VASP vaspkit 画 HSE06 能带图](https://zhuanlan.zhihu.com/p/590781664)
 
-[VASP vaspkit Materials_Studio DFT+U 画能带和DOS图](https://zhuanlan.zhihu.com/p/579449491)
+[VASP vaspkit Materials_Studio DFT+U 画能带和 DOS 图](https://zhuanlan.zhihu.com/p/579449491)
 
 [VASP vaspkit Origin 画态密度（DOS）图](https://zhuanlan.zhihu.com/p/574160228)
 
@@ -90,9 +130,15 @@
 
 [画能带（Band）和态密度（DOS）图--Python包](https://zhuanlan.zhihu.com/p/580857656)
 
+[VASP+vaspkit 计算能带结构+态密度](https://zhuanlan.zhihu.com/p/526969630)
+
+
+
 ## 电偶极矩
 
 [计算跃迁电偶极矩](https://blog.shishiruqi.com/2019/07/12/tdm/)
+
+[VASP 之铁电极化计算](https://zhuanlan.zhihu.com/p/358517335)
 
 ## 磁
 
