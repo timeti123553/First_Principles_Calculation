@@ -1,6 +1,6 @@
 # First_Principles_Calculation
 
-**本项目收集第一性原理计算相关文章**
+**这里整理并分享一些我在科研过程中遇到的具有参考价值的文章，供大家交流学习。如果大家也有优质推荐，欢迎补充。文章内容主要分为三类：理论、计算与论文写作。**
 
 ---
 
@@ -40,7 +40,7 @@
 
 使用 Python 写的一个第一性原理计算软件的数据处理软件。基本上所有的第一性原理计算的数据都可以处理。
 
-**[Materials Studio入门到精通](Materials_Studio.md)**
+**[Materials Studio 入门到精通](Materials_Studio.md)**
 
 收集了一下有关 Materials Studio 的文章。
 
