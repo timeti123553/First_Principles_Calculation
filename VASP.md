@@ -1,5 +1,33 @@
 # VASP
 
+[【VASP】给真·小白看的VASP本地编译自学指南 Ver 2.1](https://mp.weixin.qq.com/s/WD4xVA8BsXSXT-IWiumgkw)
+
+[用强大的 GROMACS 分析工具分析 VASP 的动力学结果](https://mp.weixin.qq.com/s/pjLTG9KX1khrCx1pTW9B4w)
+
+[string 法自动寻找二维势能面上的 MEP](https://mp.weixin.qq.com/s/FA7qH-U39HTVcEeMcf42CQ)
+
+[计算应力应变曲线脚本 idealdeform.sh 使用指南](https://mp.weixin.qq.com/s/_FtRyf8083TxUwyUHbgb2Q)
+
+[VASP 定压计算脚本 vaspeqstress.sh 使用教程](https://mp.weixin.qq.com/s/P--U8S1JztxSynlK7vQb4A)
+
+[差分电荷密度和平面平均差分电荷密度计算教程](https://mp.weixin.qq.com/s/9jFp0XXxznyICXMRZSYhmg)
+
+[VASP 计算二维材料的载流子迁移率](https://mp.weixin.qq.com/s/_d4hx-QO3nqNeRe9M4MUPA)
+
+[二维材料静态介电常数和光学性质计算 Tips](https://mp.weixin.qq.com/s/fVRspVVFf-Ko-8cB7kk16g)
+
+[VASP 计算光学性质教程](https://mp.weixin.qq.com/s/waTzUdwZZUqbe1e9VtDX_g)
+
+[VASP 计算声子谱教程](https://mp.weixin.qq.com/s/E5NBkgpSMt-qVzHCulU7hw)
+
+[VASP 计算杂化能带详细步骤教程](https://mp.weixin.qq.com/s/v5pR3jffP5owYcUmWTLg5g)
+
+[VASP 常见错误和解决方法集锦](https://mp.weixin.qq.com/s/76UrudLZJH1Sk7nYmElkNQ)
+
+[VASP 计算常见问题有效解决方法](https://mp.weixin.qq.com/s/T8Hfq2yVBrc3Br8iW1mPiA)
+
+[原胞转化方法以及标准原胞在计算中的重要性](https://mp.weixin.qq.com/s/NBWI1l-8ZY7WWvOhVOelXA)
+
 [自动进行 K 点和 ENCUT 测试 bash 脚本](https://www.jun997.xyz/2021/10/19/fa8688fdb49b.html)
 
 [VASP 的计算流程](https://www.jun997.xyz/2021/11/10/c445558fb829.html)
@@ -158,6 +186,8 @@
 
 ## 结构优化
 
+[聊一聊结构优化](https://mp.weixin.qq.com/s/uxynS5bzLfVpXHtEL7_3Zg)
+
 [VASP 结构优化过程中查看能量和力收敛](https://blog.shishiruqi.com/2019/08/19/paili-energyforce/)
 
 [VASP 固定基矢优化结构方法](https://blog.shishiruqi.com/2019/05/05/constr/)
@@ -203,6 +233,8 @@
 [VASP 之铁电极化计算](https://zhuanlan.zhihu.com/p/358517335)
 
 ## 磁
+
+[加快磁性材料电子迭代收敛经验小结](https://mp.weixin.qq.com/s/CsHrfXkSD0vtdHTp5_gNMA)
 
 [如何在 VASP 中约束磁矩](https://zhuanlan.zhihu.com/p/716322801)
 

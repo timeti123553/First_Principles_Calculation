@@ -1,5 +1,11 @@
 # Materials Studio
 
+[固定原子坐标 perl 小脚本 xsd2pos](https://mp.weixin.qq.com/s/F82Hzh4saiOpp4xLFU_HGg)
+
+[MS 切面及构建根号表面经验](https://mp.weixin.qq.com/s/TkUl156H8IAHAL8RoZ9UTw)
+
+[构建层晶面筛选脚本使用方法指南](https://mp.weixin.qq.com/s/VD6MD_ufMeD1R7mZByRsOQ)
+
 ## Materials Studio 教程
 
 [Materials Studio教程（一）：软件介绍](https://zhuanlan.zhihu.com/p/334663101)

@@ -24,6 +24,10 @@
 
 ## 计算
 
+**[LAMMPS](LAMMPS.md)**
+
+**[CP2K](CP2K.md)**
+
 **[VASP](VASP.md)**
 
 记录了有关使用 VASP 进行第一性原理计算的相关文章。
