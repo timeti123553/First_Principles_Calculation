@@ -1,5 +1,7 @@
 # VASP
 
+[【VASP基础03】VASP+晶体轨道布局 COHP](https://zhuanlan.zhihu.com/p/668003243)
+
 [【VASP】给真·小白看的VASP本地编译自学指南 Ver 2.1](https://mp.weixin.qq.com/s/WD4xVA8BsXSXT-IWiumgkw)
 
 [用强大的 GROMACS 分析工具分析 VASP 的动力学结果](https://mp.weixin.qq.com/s/pjLTG9KX1khrCx1pTW9B4w)
