@@ -2,7 +2,7 @@
 
 **这里整理并分享一些我在科研过程中遇到的具有参考价值的文章，供大家交流学习。**
 
-**如果大家也有优质推荐，欢迎补充。文章内容主要分为三类：理论、计算与论文写作。**
+**如果大家也有优质推荐，欢迎补充。文章内容主要分为五类：论坛、数据库、理论、计算与论文写作。**
 
 ---
 
@@ -10,11 +10,47 @@
 
 **[Matter Modeling](https://mattermodeling.stackexchange.com/)**
 
-​Matter Modeling 论坛是 Stack Exchange 网络中的一个问答网站，专门为材料建模和数据科学领域的专业人士和爱好者提供交流平台。​在这里，用户可以提出与材料建模相关的问题，分享知识，并协同解决问题。
+**​Matter Modeling** 论坛是 Stack Exchange 网络中的一个问答网站，专门为材料建模和数据科学领域的专业人士和爱好者提供交流平台。​在这里，用户可以提出与材料建模相关的问题，分享知识，并协同解决问题。
 
 **[Materials Science Community Discourse](https://matsci.org/)**
 
-Materials Science Community Discourse 是一个专注于材料科学和计算材料科学的在线交流平台，由 Materials Project 和 KIM Project 共同管理。论坛涵盖多个主题和软件工具，如LAMMPS、pymatgen、OVITO、GULP和ASE，用户可以就材料建模、分析和相关工具进行讨论和交流。平台还设有“Science Talk”等板块，支持学术讨论和研究分享，旨在促进材料科学知识的共享与合作。
+**Materials Science Community Discourse** 是一个专注于材料科学和计算材料科学的在线交流平台，由 Materials Project 和 KIM Project 共同管理。论坛涵盖多个主题和软件工具，如 LAMMPS、pymatgen、OVITO、GULP 和 ASE，用户可以就材料建模、分析和相关工具进行讨论和交流。平台还设有“Science Talk”等板块，支持学术讨论和研究分享，旨在促进材料科学知识的共享与合作。
+
+---
+
+## 数据库
+
+**[The Materials Project](https://next-gen.materialsproject.org/)**
+
+**The Materials Project** 是一个由加州大学伯克利分校和劳伦斯伯克利国家实验室联合开发的开源材料数据库与在线平台，旨在通过高通量第一性原理计算为材料科学研究提供丰富的数据资源。该项目利用密度泛函理论（DFT）计算生成材料的结构、能带、态密度、弹性性质、相图等数据，并通过Pymatgen进行自动化数据处理和分析。研究者可以通过其网页界面或 API 访问上百万种材料的物性数据，广泛用于新材料发现、材料筛选和性质预测等研究中。
+
+**[AFLOW](https://aflowlib.duke.edu/search/ui/)**
+
+**AFLOW** 是一个全球可用的开源材料数据库和高通量计算框架，旨在加速材料科学研究与材料发现。通过自动化高通量密度泛函理论（DFT）计算，AFLOW 提供了数百万种材料的结构、物性和热力学数据，广泛应用于新材料设计、性质预测和数据驱动研究。研究人员可以通过 AFLOW 平台便捷地获取和分析材料数据，推动材料科学的发展。
+
+**[OQMD（Open Quantum Materials Database）](https://oqmd.org/)**
+
+**OQMD**（Open Quantum Materials Database）是一个开放的材料数据库，专注于量子力学计算生成的材料性质数据，旨在推动材料科学研究和材料设计。该数据库基于密度泛函理论（DFT）计算，包含超过一百万种材料的结构、能量、稳定性和电子性质等信息，广泛应用于材料筛选、性质预测和数据驱动的材料研究。OQMD 为研究人员提供了便捷的材料数据查询和下载接口，是材料学领域的重要数据资源。
+
+**[NOMAD (Novel Materials Discovery Laboratory)](https://nomad-lab.eu/nomad-lab/)**
+
+**NOMAD**（Novel Materials Discovery Laboratory）是一个开放的材料科学平台，汇集全球多种计算材料数据库，旨在统一管理和分析材料性质数据。它基于密度泛函理论（DFT）和其他量子力学计算方法，提供数百万种材料的计算数据，如能带结构、态密度和晶体结构，支持高通量数据挖掘、机器学习和材料发现，加速材料科学研究进程。
+
+**[COD (Crystallography Open Database)](https://www.crystallography.net/cod/)**
+
+**COD**（Crystallography Open Database）是一个开放获取的晶体学数据库，收集和存储已发表的无机和有机晶体结构数据，旨在为科学研究和教育提供免费可用的结构信息。COD 包含数十万种化合物的晶胞参数、原子坐标和对称性信息，广泛应用于晶体结构分析、材料设计和计算材料科学研究。
+
+**[ ICSD (Inorganic Crystal Structure Database)](https://icsd.fiz-karlsruhe.de/index.xhtml)**
+
+**ICSD**（Inorganic Crystal Structure Database）是一个权威的晶体结构数据库，专门收录已发表的无机化合物晶体结构数据。它包含超过20万种无机材料的详细晶体学信息，如晶胞参数、对称性、原子坐标和化学成分，广泛应用于材料科学、无机化学和固态物理研究，支持结构预测、性质分析和数据挖掘。
+
+**[C2DB（Computational 2D Materials Database）](https://c2db.fysik.dtu.dk/)**
+
+**C2DB**（Computational 2D Materials Database）是一个开放的二维材料数据库，专注于基于密度泛函理论（DFT）计算的二维材料性质数据。该数据库包含上千种二维材料的几何结构、能带结构、磁性、自旋轨道耦合等物性信息，广泛应用于二维材料设计、电子器件研究和量子材料探索。
+
+**[2DMatPedia](http://www.2dmatpedia.org/)**
+
+**2DMatPedia** 是一个开放的二维材料数据库，基于高通量密度泛函理论（DFT）计算，收录了超过 6000 种二维材料的结构和物性数据。该数据库提供二维材料的几何参数、能带结构、弹性性质、热力学稳定性等信息，旨在加速二维材料的筛选和应用研究，广泛用于电子、光学和能量存储等领域。
 
 ---
 
