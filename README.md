@@ -42,15 +42,19 @@ Materials Science Community Discourse 是一个专注于材料科学和计算材
 
 **[LAMMPS](计算/LAMMPS.md)**
 
+LAMMPS（Large-scale Atomic/Molecular Massively Parallel Simulator）是一个用于分子动力学模拟的开源软件，广泛应用于材料科学、物理、化学和生物分子研究中，具有高度并行化和灵活性。
+
 **[CP2K](计算/CP2K.md)**
+
+CP2K 是一款开源的量子化学和分子动力学模拟软件，主要用于从头计算（ab initio）、密度泛函理论（DFT）、半经验方法和经典力场模拟。它擅长处理固态、液态、分子和生物体系，支持大规模并行计算，常用于研究材料科学、催化、分子动力学、电子结构和能量优化等领域。CP2K 结合了快速多极子方法（FMM）、平面波基组和原子轨道基组，能够在计算效率和精度之间取得平衡。
 
 **[VASP](计算/VASP.md)**
 
-记录了有关使用 VASP 进行第一性原理计算的相关文章。
+VASP（Vienna Ab initio Simulation Package）是一个商业化的第一性原理计算软件，基于密度泛函理论（DFT）、平面波基组和赝势方法，广泛用于固体、表面和分子体系的电子结构计算、能带结构、态密度、原子结构优化、分子动力学模拟和材料性质预测。VASP采用高效的投影缀加平面波（PAW）方法，具有较高的精度和良好的并行性能，在材料科学、物理学和化学研究中得到广泛应用。
 
 **[vaspkit](计算/vaspkit.md)**
 
-在使用 VASP 进行计算的时候，这是一个很好用的辅助工具。
+vaspkit 是一个专门为 VASP（Vienna Ab initio Simulation Package）开发的后处理工具集，旨在简化和加速VASP计算结果的分析和可视化。它提供了丰富的功能，如能带结构、态密度、费米能级、电子局域函数（ELF）、布里渊区路径生成和材料性质分析等。vaspkit 具有交互式命令行界面和友好的操作流程，极大地降低了分析 VASP 计算数据的复杂性，是材料科学和计算物理研究中常用的辅助工具。
 
 **[模型](计算/模型.md)**
 
@@ -62,11 +66,11 @@ Materials Science Community Discourse 是一个专注于材料科学和计算材
 
 **[pymatgen](计算/pymatgen.md)**
 
-使用 Python 写的一个第一性原理计算软件的数据处理软件。基本上所有的第一性原理计算的数据都可以处理。
+Pymatgen（Python Materials Genomics）是一个开源的 Python 库，旨在简化和加速材料科学中的数据处理、结构操作和高通量计算。它提供了丰富的功能，包括晶体结构分析、对称性操作、能带和态密度计算、相图构建、数据转换以及与VASP、CP2K、Quantum ESPRESSO 等第一性原理计算软件的无缝集成。由于其强大的灵活性和广泛的功能，Pymatgen 已成为材料基因组研究和高通量材料计算中不可或缺的工具之一。
 
 **[Materials Studio 入门到精通](计算/Materials_Studio.md)**
 
-收集了一下有关 Materials Studio 的文章。
+Materials Studio 是一款商业化的材料模拟与建模软件，由 BIOVIA 公司（原Accelrys）开发，专门用于研究分子、纳米材料和固态材料的结构、性质和反应。它集成了多种计算方法，如密度泛函理论（DFT）、分子动力学（MD）、蒙特卡罗模拟和分子力学（MM），并提供丰富的可视化和分析工具，支持材料设计、分子建模、晶体结构预测、催化和聚合物研究等。Materials Studio 具有直观的图形用户界面和模块化插件体系，广泛应用于化学、材料科学、物理和制药等领域。
 
 **[机器学习](计算/机器学习.md)**
 
