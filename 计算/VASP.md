@@ -1,5 +1,7 @@
 # VASP
 
+[Is there any solution for "LAPACK: Routine ZPOTRF failed" and "call to ZHEGV failed"?](https://www.researchgate.net/post/Is_there_any_solution_for_LAPACK_Routine_ZPOTRF_failed_and_call_to_ZHEGV_failed)
+
 [【VASP基础03】VASP+晶体轨道布局 COHP](https://zhuanlan.zhihu.com/p/668003243)
 
 [【VASP】给真·小白看的VASP本地编译自学指南 Ver 2.1](https://mp.weixin.qq.com/s/WD4xVA8BsXSXT-IWiumgkw)
