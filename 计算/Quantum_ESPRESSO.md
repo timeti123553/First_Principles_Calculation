@@ -19,3 +19,15 @@
 [High-temperature superconductivity in quinary clathrate hydrides under pressure](https://doi.org/10.1103/4hr1-vcvk)
 
 吉林大学刘寒雨/钟鑫团队Phys. Rev. B: 压力下五元笼状氢化物中的高温超导性
+
+## 磁性材料中电子-声子耦合诱导声子磁矩的从头算理论
+
+文章链接：
+
+[Ab Initio Theory of Phonon Magnetic Moment Induced by Electron-Phonon Coupling in Magnetic Materials](https://doi.org/10.1103/tpjd-dh1m)
+
+该文章中通过对 Quantum ESPRESSO 添加补丁实现了该方法。
+
+相关 GitHub 链接为：
+
+https://github.com/Imagersir/qe-ph-eta
