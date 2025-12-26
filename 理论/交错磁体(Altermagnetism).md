@@ -24,3 +24,20 @@
 
 材料维度：2D
 
+[Chemical design of monolayer altermagnets](https://doi.org/10.1093/nsr/nwaf528)
+
+标题：单层交替磁体的化学设计
+
+计算材料： $\rm V_2(Se,Te)_2O$ 等 612 中材料
+
+材料维度：2D
+
+[Magnetic-field and strain engineering of transverse transport in altermagnetic topological materials](https://doi.org/10.1103/1ffx-lv6y)
+
+标题：交错磁拓扑材料中横向输运的磁场与应变调控
+
+计算材料： $\rm XV_2Y_2O (X = K, Rb, Cs; Y = S, Se, Te)$
+
+材料维度：3D
+
+
