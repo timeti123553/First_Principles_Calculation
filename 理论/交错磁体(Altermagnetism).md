@@ -72,3 +72,10 @@
 
 材料维度：3D
 
+[A Large Spin-Splitting Altermagnet Designed from the Hydroxylated MBene Monolayer](https://doi.org/10.1002/adfm.202517921)
+
+标题：基于羟基化 MBene 单层设计的大自旋分裂交错磁体
+
+计算材料： $\rm \alpha60-Mn_2B_2(OH)_2$
+
+材料维度：2D
