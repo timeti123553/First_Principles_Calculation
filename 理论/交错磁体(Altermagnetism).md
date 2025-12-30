@@ -1,5 +1,29 @@
 # 交错磁体
 
+[Ferroelastically tunable altermagnets](https://journals.aps.org/prb/abstract/10.1103/m33v-xwn3)
+
+标题：在铁弹性交变磁体五边形 $\rm CoSe_2$ 单层中实现自旋劈裂90°旋转
+
+计算材料： $\rm CoSe_2$
+
+材料维度：2D
+
+[Optically controllable spin polarization in two-dimensional altermagnets via robust spin-momentum locking excitons](https://doi.org/10.1103/tdrm-twnt)
+
+标题：通过自旋-动量锁定激子实现二维交错磁体中的光学可控自旋极化
+
+计算材料： $\rm V_2X_2O(X=S,Se)$
+
+材料维度：2D
+
+[Spin Inversion Enforced by Crystal Symmetry in Ferroelastic Altermagnets](https://journals.aps.org/prl/abstract/10.1103/jql2-b4c4)
+
+标题：在铁弹性交变磁体 $\rm V_2OS$ 中利用晶体对称性驱动自旋反转实现多铁性耦合
+
+计算材料： $\rm V_2OS$
+
+材料维度：3D
+
 [𝑑-Wave Flat Fermi Surface in Altermagnets Enables Maximum Charge-to-Spin Conversion](https://doi.org/10.1103/bf1n-sxdl)
 
 标题：基于平坦费米面几何工程实现交替磁体电荷-自旋转换效率的量子极限
@@ -40,4 +64,11 @@
 
 材料维度：3D
 
+[Dimension- and Facet-Dependent Altermagnetic Biferroics and Ferromagnetic Biferroics and Triferroics in CrSb](https://doi.org/10.1002/adfm.202525978)
+
+标题：CrSb多相结构中维度与晶面依赖的交错磁/铁磁多铁性
+
+计算材料： $\rm CrSb$
+
+材料维度：3D
 
