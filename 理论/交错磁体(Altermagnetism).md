@@ -66,7 +66,7 @@
 
 [Dimension- and Facet-Dependent Altermagnetic Biferroics and Ferromagnetic Biferroics and Triferroics in CrSb](https://doi.org/10.1002/adfm.202525978)
 
-标题：$\rm CrSb$ 多相结构中维度与晶面依赖的交错磁/铁磁多铁性
+标题： $\rm CrSb$ 多相结构中维度与晶面依赖的交错磁/铁磁多铁性
 
 计算材料： $\rm CrSb$
 
