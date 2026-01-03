@@ -31,7 +31,7 @@
 
 计算材料： $\rm V_2OS$
 
-材料维度：3D
+材料维度：2D
 
 [𝑑-Wave Flat Fermi Surface in Altermagnets Enables Maximum Charge-to-Spin Conversion](https://doi.org/10.1103/bf1n-sxdl)
 
@@ -48,14 +48,6 @@
 计算材料： $\rm Lu_3N_2O_2$、 $\rm Cr_2SeO$
 
 材料维度：2D-双层
-
-[Spin Inversion Enforced by Crystal Symmetry in Ferroelastic Altermagnets](https://doi.org/10.1103/jql2-b4c4)
-
-标题：铁弹性交错磁体中的晶体对称性强制自旋翻转
-
-计算材料： $\mathrm{V_2OS}$
-
-材料维度：2D
 
 [Chemical design of monolayer altermagnets](https://doi.org/10.1093/nsr/nwaf528)
 
