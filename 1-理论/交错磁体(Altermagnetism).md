@@ -1,5 +1,14 @@
 # 交错磁体
 
+
+[Floquet-induced altermagnetic transition in A-type antiferromagnetic bilayers](https://doi.org/10.1103/nn5t-kmln)
+
+标题：Floquet驱动A型反铁磁双层向交错磁性双层转变
+
+计算材料： $\rm NiCl_2$
+
+材料维度：2D-双层
+
 [Ferroelastically tunable altermagnets](https://journals.aps.org/prb/abstract/10.1103/m33v-xwn3)
 
 标题：在铁弹性交变磁体五边形 $\rm CoSe_2$ 单层中实现自旋劈裂90°旋转
