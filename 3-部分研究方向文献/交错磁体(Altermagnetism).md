@@ -1,5 +1,16 @@
 # 交错磁体
 
+[Mechanically and electrically switchable triferroic altermagnet in a pentagonal $\rm FeO_2$ monolayer](https://doi.org/10.1103/ftmr-bh9k)
+
+标题：五角形 $\rm FeO_2$ 单层中机械和电气可切换的三流互变磁体
+
+计算材料： $\rm FeO_2$ 
+
+材料维度：2D
+
+[Altermagnetism-induced noncollinear superconducting diode effect and unidirectional superconducting transport](https://doi.org/10.1103/rqp1-jtcb)
+
+标题：交替磁性诱导非共线超导二极管效应与单向超导输运
 
 [Floquet-induced altermagnetic transition in A-type antiferromagnetic bilayers](https://doi.org/10.1103/nn5t-kmln)
 
